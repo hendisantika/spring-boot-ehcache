@@ -138,3 +138,5 @@ public ManagementService managementService() {
     return managementService;
 }
 ```
+
+[Read this article](https://dzone.com/articles/spring-hibernate-ehcache-caching?edition=358095&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202018-01-26)
