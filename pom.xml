@@ -26,7 +26,7 @@
         <postgresql.version>42.4.3</postgresql.version>
 
         <spring.version>5.0.2.RELEASE</spring.version>
-        <spring.hateoas.version>0.24.0.RELEASE</spring.hateoas.version>
+        <spring.hateoas.version>1.5.5</spring.hateoas.version>
 
         <hibernate.version>5.3.6.Final</hibernate.version>
         <org.ehcache.version>3.6.1</org.ehcache.version>
