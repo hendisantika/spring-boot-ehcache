@@ -29,7 +29,7 @@
         <spring.hateoas.version>0.24.0.RELEASE</spring.hateoas.version>
         <!--        <spring.hateoas.version>1.12.11</spring.hateoas.version>-->
 
-        <hibernate.version>5.6.1.Final</hibernate.version>
+        <hibernate.version>5.6.15.Final</hibernate.version>
         <org.ehcache.version>3.9.7</org.ehcache.version>
         <flywaydb.version>8.2.0</flywaydb.version>
         <jackson.version>2.13.0</jackson.version>
