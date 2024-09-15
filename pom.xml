@@ -25,7 +25,7 @@
         <h2.version>2.3.232</h2.version>
         <postgresql.version>42.7.4</postgresql.version>
 
-        <spring.version>5.3.13</spring.version>
+        <spring.version>6.1.13</spring.version>
         <spring.hateoas.version>2.3.3</spring.hateoas.version>
         <!--        <spring.hateoas.version>1.12.11</spring.hateoas.version>-->
 
