@@ -33,7 +33,7 @@
         <org.ehcache.version>3.11.1</org.ehcache.version>
         <flywaydb.version>11.13.1</flywaydb.version>
         <jackson.version>2.20.0</jackson.version>
-        <lombok.version>1.18.40</lombok.version>
+        <lombok.version>1.18.42</lombok.version>
     </properties>
 
     <dependencies>
