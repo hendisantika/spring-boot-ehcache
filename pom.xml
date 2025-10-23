@@ -31,7 +31,7 @@
 
         <hibernate.version>5.6.15.Final</hibernate.version>
         <org.ehcache.version>3.11.1</org.ehcache.version>
-        <flywaydb.version>11.14.1</flywaydb.version>
+        <flywaydb.version>11.15.0</flywaydb.version>
         <jackson.version>2.20.0</jackson.version>
         <lombok.version>1.18.42</lombok.version>
     </properties>
